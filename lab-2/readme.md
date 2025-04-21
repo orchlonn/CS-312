@@ -1,3 +1,6 @@
 # CS-312
 
-The CBD-to-seven-segment.lgi is a multimedia logic file that you can open to run, test, and view the results.
+LGI files are multimedia logic files that can be opened in Multimedia Logic to execute, test, and view the outcomes.
+
+The software can be downloaded at MultiMedia Logic
+[here.](https://softronix.com/logic.html)
