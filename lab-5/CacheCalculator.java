@@ -1,3 +1,7 @@
+// Name: Orchlon Chinbat
+// Student ID: 50291063
+// Honor code: By doing this assignment and submitting, I pledge that this submission is solely my own work, and it is not a copy or partial copy from anywhere.
+
 import java.util.Scanner;
 
 public class CacheCalculator {
