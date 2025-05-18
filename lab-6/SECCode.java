@@ -7,9 +7,16 @@
  * representing the transmitted and received bit‑streams (data+check bits),
  * computes whether a single‑bit error has occurred, and—if so—locates it.
  * 
- * Student:  [Your Name]
- * CWU ID:   [Your CWU ID]
- * Honor Code Statement: "I have not given or received unauthorized aid."
+ * Student: Orchlon Chinbat
+ * CWU ID: 50291063
+ * Honor Code: "By doing these assignments and submitting, I pledge that my submission is solely my own work, and it is not a copy or partial copy from anywhere."
+ */
+
+
+/** 
+ * How to run the code:
+    - javac SECCode.java                                                                                         1 ✘  01:04:55 PM   
+    - java SECCode transmitfile-1.bin receivefile4.bin (You can change the receivefile name from 1-4)
  */
 
  import java.io.*;
