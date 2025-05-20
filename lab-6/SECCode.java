@@ -40,7 +40,11 @@
              
              System.out.println("Location of the k check bits are: " + checkPositions);
              System.out.print("The k check bit values are: ");
-             printBits(txCheckBits);
+            // Print bits in reverse order
+             for (int i = txCheckBits.size() - 1; i >= 0; i--) {
+                System.out.print(txCheckBits.get(i));
+            }
+            System.out.println();
  
              // Read received file
              String rxBits = readBitString(rxFile);
